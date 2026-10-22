@@ -1,0 +1,13 @@
+{
+  "app_name": "RAYNE TV",
+  "playlist_version": 1,
+  "channels": [
+    {
+      "id": "channel001",
+      "name": "Test Channel",
+      "logo": "",
+      "url": "https://example.com/live.m3u8",
+      "type": "hls"
+    }
+  ]
+}
