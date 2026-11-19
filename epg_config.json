@@ -1,5 +1,5 @@
 {
-  "refresh_hours": 6,
+  "refresh_hours": 2,
   "sources": [
     {
       "name": "Philippine EPG",
