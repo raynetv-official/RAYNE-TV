@@ -3,7 +3,7 @@
   "sources": [
     {
       "name": "EPG_PW_PH",
-      "url": "https://github.com/djdoolky76/UDPTV/raw/refs/heads/main/epgs/udptv-epg.xml",
+      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg.xml",
       "enabled": true
     }
   ]
