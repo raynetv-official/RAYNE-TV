@@ -1,16 +1,9 @@
 {
-  "refresh_hours": 2,
+  "refresh_hours": 6,
   "sources": [
     {
-      "name": "Philippine EPG",
-      "region": "PH",
+      "name": "EPG_PW_PH",
       "url": "https://epg.pw/xmltv/epg_PH.xml",
-      "enabled": true
-    },
-    {
-      "name": "International EPG",
-      "region": "INT",
-      "url": "https://epg.pw/xmltv/epg.xml",
       "enabled": true
     }
   ]
