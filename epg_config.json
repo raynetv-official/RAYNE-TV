@@ -1,4 +1,17 @@
 {
-  "epg_url": "",
-  "refresh_hours": 6
+  "refresh_hours": 6,
+  "sources": [
+    {
+      "name": "Philippine EPG",
+      "region": "PH",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "name": "International EPG",
+      "region": "INT",
+      "url": "",
+      "enabled": true
+    }
+  ]
 }
