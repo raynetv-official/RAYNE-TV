@@ -4,13 +4,13 @@
     {
       "name": "Philippine EPG",
       "region": "PH",
-      "url": "",
+      "url": "https://epg.pw/xmltv/epg_PH.xml",
       "enabled": true
     },
     {
       "name": "International EPG",
       "region": "INT",
-      "url": "",
+      "url": "https://epg.pw/xmltv/epg.xml",
       "enabled": true
     }
   ]
