@@ -3,7 +3,7 @@
   "sources": [
     {
       "name": "EPG_PW_PH",
-      "url": "https://epg.pw/xmltv/epg_PH.xml",
+      "url": "https://github.com/djdoolky76/UDPTV/raw/refs/heads/main/epgs/udptv-epg.xml",
       "enabled": true
     }
   ]
