@@ -5,6 +5,11 @@
       "name": "EPG_PW_PH",
       "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg.xml",
       "enabled": true
+    },
+    {
+      "name": "XTREAM_EPG",
+      "url": "http://hardcoremedia.xyz:80/xmltv.php?username=cgYH9gdj4&password=DCpFQXtyao",
+      "enabled": true
     }
   ]
 }
