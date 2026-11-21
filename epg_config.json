@@ -3,36 +3,9 @@
   "refresh_hours": 6,
   "sources": [
     {
-      "name": "EPG_PW_PH",
-      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg.xml"
-    },
-    {
-      "name": "HARDCORE_01",
-      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg_hardcore_01.xml"
-    },
-    {
-      "name": "HARDCORE_02",
-      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg_hardcore_02.xml"
-    },
-    {
-      "name": "HARDCORE_03",
-      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg_hardcore_03.xml"
-    },
-    {
-      "name": "HARDCORE_04",
-      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg_hardcore_04.xml"
-    },
-    {
-      "name": "HARDCORE_05",
-      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg_hardcore_05.xml"
-    },
-    {
-      "name": "HARDCORE_06",
-      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg_hardcore_06.xml"
-    },
-    {
-      "name": "HARDCORE_07",
-      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg_hardcore_07.xml"
+      "name": "RAYNE_TV_COMBINED",
+      "url": "https://github.com/raynetv-official/RAYNE-TV-EPG/releases/download/epg-latest/epg_combined.xml",
+      "enabled": true
     }
   ]
 }
