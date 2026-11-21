@@ -2,8 +2,8 @@
   "refresh_hours": 6,
   "sources": [
     {
-      "name": "HARDCOREMEDIA",
-      "url": "http://hardcoremedia.xyz:80/xmltv.php?username=cgYH9gdj4&password=DCpFQXtyao"
+      "name": "RAYNETVEPG",
+      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg.xml"
     }
   ]
 }
