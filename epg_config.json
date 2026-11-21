@@ -1,9 +1,14 @@
+
 {
   "refresh_hours": 6,
   "sources": [
     {
       "name": "RAYNETVEPG",
       "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg.xml"
+    },
+    {
+      "name": "NBA",
+      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/NBA.epg.xml"
     }
   ]
 }
