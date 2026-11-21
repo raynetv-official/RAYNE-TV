@@ -1,5 +1,5 @@
 {
-  "refresh_hours": 6,
+  "refresh_hours": 5,
   "sources": [
     {
       "name": "RAYNETVEPG",
@@ -7,7 +7,7 @@
     },
     {
       "name": "NBA",
-      "url": "http://hardcoremedia.xyz:80/xmltv.php?username=cgYH9gdj4&password=DCpFQXtyao"
+      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/NBA.epg.xml"
     }
   ]
 }
