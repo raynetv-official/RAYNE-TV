@@ -1,11 +1,9 @@
-
 {
   "refresh_hours": 6,
   "sources": [
     {
-      "name": "RAYNE_TV_COMBINED",
-      "url": "https://github.com/raynetv-official/RAYNE-TV-EPG/releases/download/epg-latest/epg_combined.xml",
-      "enabled": true
+      "name": "HARDCOREMEDIA",
+      "url": "http://hardcoremedia.xyz:80/xmltv.php?username=cgYH9gdj4&password=DCpFQXtyao"
     }
   ]
 }
