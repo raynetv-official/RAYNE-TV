@@ -1,3 +1,4 @@
+
 {
   "refresh_hours": 5,
   "sources": [
@@ -8,6 +9,10 @@
     {
       "name": "NBA",
       "url": "https://raw.githubusercontent.com/raynetv-official/Movies-entertainment/refs/heads/main/movies.epg.xml"
+    },
+    {
+      "name": "NBA_30_TEAMS",
+      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/NBA.epg.xml"
     }
   ]
 }
