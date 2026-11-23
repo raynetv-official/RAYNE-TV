@@ -16,10 +16,6 @@
     {
       "name": "EPG CINEMO",
       "url": "https://github.com/djdoolky76/UDPTV/raw/refs/heads/main/epgs/udptv-epg.xml"
-    },
-    {
-      "name": "TELEONLINE_EPG",
-      "url": "https://github.com/teleonline/epg/releases/download/epg-latest/epg.xml"
     }
   ]
 }
