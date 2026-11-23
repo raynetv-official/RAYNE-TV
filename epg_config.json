@@ -4,7 +4,7 @@
   "sources": [
     {
       "name": "RAYNETVEPG",
-      "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg.xml"
+      "url": "https://raw.githubusercontent.com/djdoolky76/Mediaquest-EPG/main/cignal_epg.xml.gz"
     },
     {
       "name": "NBA",
