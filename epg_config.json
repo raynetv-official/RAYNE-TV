@@ -12,6 +12,10 @@
     {
       "name": "NBA_30_TEAMS",
       "url": "https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/NBA.epg.xml"
+    },
+    {
+      "name": "EPG CINEMO",
+      "url": "https://github.com/djdoolky76/UDPTV/raw/refs/heads/main/epgs/udptv-epg.xml"
     }
   ]
 }
